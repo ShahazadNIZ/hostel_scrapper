@@ -1,0 +1,49 @@
+{
+    "hostels": [
+        {
+            "name": "Nested Comfort Hostel",
+            "city": "Islamabad",
+            "location": "\n                            \ud83d\udccd M22G+4R9, Islamabad, Pakistan\n                        ",
+            "description": "\nDescription\n\n                        Location: I-10/2, Islamabad\n\nNested Comfort Hostel is not just a hostel \u2013 it\u2019s your home away from home. Designed especially for students and jobians, this small and peaceful setup offers a warm, family-like environment with only 6 total seats \u2013 ensuring personal attention, cleanliness, and comfort.\n\n\u2705 2 Time Home-Made Meal (Prepared by Owner\u2019s Family)\n\u2705 High-Speed Wi-Fi\n\u2705 Well Furnished Rooms\n\u2705 Daily Room Cleaning Service\n\u2705 Security Guard\n\u2705 Washing Machine\n\u2705 Car/Bike Parking Space\n\u2705 Peaceful Home-Like Environment\n\u2705 All Utility Bills Included\n                        \n Two time Mess\n                                        \n Furnished\n\n                                            Ups\n Car parking\n Filtered Water\n Refrigerator\n\n Laundry Service\n Ironing Service\n Security Guard\n CCTV Cameras\n",
+            "owner_name": "\n Mirz Muhib (Warden)\n                ",
+            "price": "\n                                                    22000  (per seat)"
+        },
+        {
+            "name": "AFAQ GROUP OF HOSTELS (GIRLS BRANCH)",
+            "city": "Islamabad",
+            "location": "\n                            \ud83d\udccd M544+WQ, Islamabad, Pakistan\n                        ",
+            "description": "\nDescription\n\n                        We offer a safe, comfortable, and well-equipped living environment for university/college students and working women. Our facilities include:\n\n\u2705 Furnished & Well-Ventilated Rooms\nSeparate and shared options available, each with attached bathrooms.\n\n\u2705 3-Time Quality Meals\nNutritious and hygienic food served daily.\n\n\u2705 Filtered Drinking Water\nSafe and clean water available 24/7.\n\n\u2705 Fully Functional Mess & Common Kitchen\nCook your own meals if desired.\n\n\u2705 Open Kitchen on Every Floor\nEquipped with Freezer, Water Dispenser & Iron Table.\n\n\u2705 Free Laundry Service\n\n\u2705 Washing Machines Installed\n\n\u2705 High-Speed Unlimited Wi-Fi\n\n\u2705 24/7 Hot Water Supply\nEspecially during winters.\n\n\u2705 24/7 CCTV Surveillance & Security Guard\nComplete peace of mind.\n\n\u2705 24/7 Backup Generator\nNo load shedding worries!\n\n\u2705 Special Fee Discounts for Scholarship Students\n                        \n Three time Mess\n                                        \n Furnished\n\n                                            Ups\n Bike parking\n Kitchen\n Filtered Water\n Refrigerator\n\n Washing Machine\n Laundry Service\n Ironing Service\n Security Guard\n CCTV Cameras\n",
+            "owner_name": "\n AFAQ (Warden)\n                ",
+            "price": "\n                                                    12000  (per seat)"
+        },
+        {
+            "name": "Home Stay",
+            "city": "Islamabad",
+            "location": "\n                            \ud83d\udccd M2RQ+7F Islamabad, Pakistan\n                        ",
+            "description": "\nDescription\n\n                        Furnished 4 seater Room, Mess 2 times,\nRefrigerator,Iron,Internet,washing machine,dryer,Metro Station 2 min walking distance.\n                        \n Two time Mess\n                                        \n Furnished\n\n                                            Ups\n Kitchen\n Filtered Water\n Refrigerator\n\n Washing Machine\n Laundry Service\n Ironing Service\n",
+            "owner_name": "\n Asma jabeen (Warden)\n                ",
+            "price": "\n                                                    16000  (per seat)"
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+            "name": "Al Khair Boys Hostal  7  Branch",
+            "city": "Islamabad",
+            "location": "\n                            \ud83d\udccd G-9/1 G 9/1 G-9, Islamabad, Pakistan\n                        ",
+            "description": "\nDescription\n\n                        Islamabad Boys Hostel \u2013 Near Rohat Road, G-9/1\nHamare hostel mein single aur sharing rooms dono available hain. Saaf suthray, furnished rooms ideal hain students aur job holders ke liye. Peaceful environment aur prime location ke sath rehna chahain to zarur visit karein.\n                        \n Two time Mess\n                                        \n Furnished\n Bike parking\n Kitchen\n Filtered Water\n\n Laundry Service\n Security Guard\n CCTV Cameras\n",
+            "owner_name": "\n Saleem Raza (Warden)\n                ",
+            "price": "\n                                                    16000  (per seat)"
+        },
+        {
+            "name": "Alkhair Girls Hostal Branch 1",
+            "city": "Islamabad",
+            "location": "\n                            \ud83d\udccd Mir Chakar Khan Rd, I-8/3 I 8/2 I-8, Islamabad, Pakistan\n                        ",
+            "description": "\nDescription\n\n                        Alkhair girls hostal street 64  mir chakar khan rd  islamabad\n                        \n Three time Mess\n                                        \n Furnished\n\n                                            Ups\n Car parking\n Kitchen\n Filtered Water\n Refrigerator\n\n Washing Machine\n Laundry Service\n Ironing Service\n Security Guard\n CCTV Cameras\n",
+            "owner_name": "\n saba kiran (Warden)\n                ",
+            "price": "\n                                                    18000  (per seat)"
+        },
+        {}
+    ]
+}
