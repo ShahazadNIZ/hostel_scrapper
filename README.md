@@ -1,5 +1,5 @@
-# hostel_scrapper
+# hostel_scraper
 
-A scrapper for a website called houstel.com. 
+A scrapper for a website called houstel.pk. 
 A fun little project to collect hostels data from this website as i was working on hostelvalley.com.
-This scrapper collects all the essential hostel data for example, name, price location etc, which is available on the site.
+This scraper collects all the essential hostel data for example, name, price location etc, which is available on the site.
